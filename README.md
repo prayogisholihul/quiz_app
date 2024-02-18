@@ -1,5 +1,9 @@
 # quiz_app
 
+<img src="https://github.com/prayogisholihul/quiz_app/blob/master/Screenshot_1708270949.png" width="350" height="800">
+<img src="https://github.com/prayogisholihul/quiz_app/blob/master/Screenshot_1708270952.png" width="350" height="800">
+<img src="https://github.com/prayogisholihul/quiz_app/blob/master/Screenshot_1708270991.png" width="350" height="800">
+
 A new Flutter project.
 
 ## Getting Started
